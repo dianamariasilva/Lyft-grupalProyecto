@@ -11,7 +11,7 @@ import {
 const Home = ( {model} ) => {
 
 	return (
-            <div id="fondoMovil">
+            <div id="fondoMovil" className="bodyback">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-12">
