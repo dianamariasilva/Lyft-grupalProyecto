@@ -30,7 +30,7 @@ class SignUpForm extends Component {
 
 		return (
 			<div>
-				<header>
+				<div>
 					<nav className="navbar navbar-light">
 						<a href="javascript:window.history.back();">
 							<i
@@ -44,7 +44,7 @@ class SignUpForm extends Component {
 
 						</div>
 					</nav>
-				</header>
+				</div>
 
 				<div className="form-box">
                     <form role="form" id="contact-form">                  
